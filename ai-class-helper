@@ -1,0 +1,4 @@
+ai-class-helper/
+├── README.md
+├── requirements.txt
+└── ai_helper.py
