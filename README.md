@@ -4,9 +4,9 @@ This is a simple Python CLI program that uses OpenAI's GPT API to help with clas
 
 ## Setup
 
-1. Clone this repo:
+1. Clone this repo:https://github.com/your-username/ai-class-helper.git
 
-2. Install dependencies:
+2. Install dependencies:pip install -r requirements.txt
 
 3. Get your OpenAI API key from [OpenAI](https://platform.openai.com/signup).
 
